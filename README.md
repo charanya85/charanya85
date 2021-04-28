@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Charanya
 - 👀 I’m interested in learning/developing new code and also leverage the existing libraries(learn and do something interesting)
 - ✨ Hope this platform will help me to ace the job interviews !!
+- 👀 Currently exploring the shared repos
 
 
 <!---
